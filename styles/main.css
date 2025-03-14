@@ -14,7 +14,7 @@ h1 {
 
 .carousel {
   position: relative;
-  width: 680px;
+  width: 670px;
   margin: 0 auto;
   overflow: hidden;
   text-align: center;
@@ -27,7 +27,7 @@ h1 {
 }
 
 .carousel-slide {
-  min-width: 600px;
+  min-width: 20px;
   padding: 20px;
 }
 

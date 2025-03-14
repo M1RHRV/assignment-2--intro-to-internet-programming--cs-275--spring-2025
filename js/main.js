@@ -9,7 +9,7 @@ document.addEventListener(`DOMContentLoaded`, function () {
             const rightArrow = document.querySelector(`.carousel-navigation a:last-child`);
             rightArrow.style.display = `none`;
             let currentIndex = 0;
-            const slideWidth = 660;
+            const slideWidth = 680;
             carouselSlides.innerHTML = ``;
             carouselSlides.style.display = `flex`;
             carouselSlides.style.transition = `transform .2s ease-in-out`;
